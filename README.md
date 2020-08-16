@@ -1,4 +1,5 @@
-# hello-world
-cette branche apporte des modification a la branche d'orinine.
-mon travail avance bien.
+# hello-worl
+bonjour,
+je suis Annie MANIMO. je suis pationnée par les TIC, et je me forme en programmation java.
+je desire poursuivre ma formation et devenir un programeur professionnel.
 mon repository
